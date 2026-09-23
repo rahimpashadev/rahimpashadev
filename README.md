@@ -1,4 +1,10 @@
-<img src="./assets/header.svg" alt="Rahim Pasha - Web Developer" width="100%">
+<p align="center">
+  <img
+    src="./assets/rahim-github-banner-final.svg"
+    width="100%"
+    alt="Rahim - Web Developer, Full Stack and AI Automation"
+  />
+</p>
 
 ---
 
