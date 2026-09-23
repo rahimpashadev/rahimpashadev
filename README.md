@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/rahim-github-banner-final.svg"
+    src="./assets/rahim-github-banner.svg"
     width="100%"
     alt="Rahim - Web Developer, Full Stack and AI Automation"
   />
