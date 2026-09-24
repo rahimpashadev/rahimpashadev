@@ -8,25 +8,25 @@
 
 ---
 
-## About
+## Hey, I'm Rahim 👋
 
-I'm Rahim Pasha, a Web Developer with 3+ years of hands on experience working on client websites and production projects.
+I'm a Web Developer with 3+ years of hands on experience building and maintaining real client websites.
 
-I work across custom frontend development, WordPress, Elementor, Webflow, Shopify and WooCommerce.
+Most of my work has been around WordPress, Elementor, Webflow, Shopify and WooCommerce, along with custom frontend development using HTML, CSS and JavaScript.
 
-My work also includes responsive development, Figma to web implementation, integrations, website performance, migrations and ongoing website improvements.
+I work on everything from Figma to web builds and responsive development to integrations, performance improvements, migrations and production troubleshooting.
 
-I use HTML, CSS and JavaScript for custom layouts, interactions and functionality when a project needs more control than the platform provides.
+Right now, I'm actively moving from CMS focused development toward more custom development and learning the frontend and backend technologies needed to build complete web applications.
 
-I also spend a lot of time working on existing websites. This includes fixing responsive issues, rebuilding sections, troubleshooting production problems, connecting external tools and maintaining websites after launch.
+I'm not calling myself a Full Stack Developer or AI Engineer yet. I'm learning, building and getting there step by step.
 
-My current direction is Full Stack Development.
-
-I'm learning PHP, Python, React, Next.js, Node.js and the backend concepts needed to build complete web applications.
+Currently exploring PHP, Python, React, Next.js, Node.js, APIs, databases, authentication, Docker and deployment.
 
 I'm also studying BBIT, Bachelor of Business and Information Technology.
 
 <br>
+
+### 🌐 Find Me Online
 
 <a href="https://rahimpasha.com/" target="_blank">
   <img
@@ -34,12 +34,14 @@ I'm also studying BBIT, Bachelor of Business and Information Technology.
     alt="Rahim Pasha Portfolio"
   />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/rahim-pasha/" target="_blank">
   <img
     src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="Rahim Pasha LinkedIn"
   />
 </a>
+&nbsp;
 <a href="mailto:contact@rahimpasha.com">
   <img
     src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
@@ -49,7 +51,7 @@ I'm also studying BBIT, Bachelor of Business and Information Technology.
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=900&color=3D6EFF&width=650&lines=building+websites+that+perform+and+scale.;turning+web+development+into+smarter+products.;learning+by+building+real+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=900&color=3D6EFF&width=720&lines=%F0%9F%92%BB+building+websites+that+perform+and+scale.;%E2%9A%A1+turning+web+development+into+smarter+products.;%F0%9F%9B%A0%EF%B8%8F+learning+by+building+real+things.;%F0%9F%9A%80+moving+from+CMS+toward+custom+development.)](https://git.io/typing-svg)
 
 ---
 
@@ -301,3 +303,4 @@ Client Work
 ├── Performance
 ├── Troubleshooting
 └── Maintenance
+```
